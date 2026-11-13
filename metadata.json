@@ -1,0 +1,6 @@
+{
+  "name": "OKC Uptown Cleaning Services",
+  "description": "Specialty residential deep cleaning, commercial cleaning, post-construction detailing, chandelier care, and pressure washing in Oklahoma City. Independent redesign concept by S.Mideros Agency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
